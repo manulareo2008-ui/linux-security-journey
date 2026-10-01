@@ -22,6 +22,7 @@ Networking:
 ### Phase 3
 Web Security:
 - [SQL injection](web-security/01-sql-injection.md)
+- [Stored XSS](web-security/02-stored-xss.md)
 
 ## Note
 This repository follows a basic rule: I never expose any password or solution to a level, I only talk about the concepts and the commands.
